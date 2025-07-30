@@ -1,4 +1,4 @@
-# Calculator App
+# SimpleCalc
 
 A simple and stylish calculator app for Android, designed with a modern, iOS-inspired interface. This app provides basic arithmetic operations with a user-friendly layout and real-time calculation updates.
 
