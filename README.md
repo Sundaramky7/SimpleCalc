@@ -8,7 +8,7 @@ A simple and stylish calculator app for Android, designed with a modern, iOS-ins
 
 | Light Mode | Dark Mode |
 | :---: | :---: |
-| ![WhatsApp Image 2025-07-30 at 21 22 32 (1)](https://github.com/user-attachments/assets/cdcd16fb-eea9-4f5a-a388-d4224bf23de1 = 40px) | ![WhatsApp Image 2025-07-30 at 21 22 33 (2)](https://github.com/user-attachments/assets/e37c52c1-d68a-4a6c-a71f-186d7a24ce0b)|
+|  <img src="https://github.com/user-attachments/assets/275a1fc0-7601-4a16-89a4-33cc8747f34c" width="150" />  <img src="https://github.com/user-attachments/assets/f6f9f605-9774-4ff2-8708-cdb8ea6637be" width="150" />  | <img src="https://github.com/user-attachments/assets/784fa40b-aaa3-4a47-8d3e-7e7fb9b5819c" width="150"/>  <img src="https://github.com/user-attachments/assets/e37c52c1-d68a-4a6c-a71f-186d7a24ce0b" width="150"/>  |
 
 ## ✨ Features
 
