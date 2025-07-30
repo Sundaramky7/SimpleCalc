@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Calculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#B45F5F5F</item>
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="android:statusBarColor">#80783304</item>
+        <item name="android:windowLightStatusBar">false</item>
+
+        <!-- Customize your splash screen theme here. -->
+        <item name="android:windowSplashScreenAnimationDuration" tools:targetApi="31">0</item>
+        <item name="android:windowSplashScreenAnimatedIcon" tools:targetApi="31">@android:color/transparent</item>
+        <item name="android:windowSplashScreenBackground" tools:targetApi="31">#FAFAFA</item>
+
+    </style>
+</resources>
