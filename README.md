@@ -1,4 +1,5 @@
-# SimpleCalc
+# SimpleCalc 
+![Static Badge](https://img.shields.io/badge/platform-Android-lightgreen)
 
 A simple and stylish calculator app for Android, designed with a modern, iOS-inspired interface. This app provides basic arithmetic operations with a user-friendly layout and real-time calculation updates.
 
