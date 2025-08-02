@@ -1,5 +1,5 @@
 # SimpleCalc 
-[![Android Studio](https://img.shields.io/badge/platform-Android_Studio-lightgreen)](https://developer.android.com/studio)
+[![Android Studio](https://img.shields.io/badge/platform-Android_Studio-green)](https://developer.android.com/studio)
 
 A simple and stylish calculator app for Android, designed with a modern, iOS-inspired interface. This app provides basic arithmetic operations with a user-friendly layout and real-time calculation updates.
 
